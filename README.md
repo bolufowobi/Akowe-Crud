@@ -1,5 +1,5 @@
 # Akowe-Crud
-A simple ASP .Net Core 3.1 Web Api to record a basic Academic Credentials.
+A simple ASP .Net Core 3.1 Web Api to record basic Academic Credentials.
 
 # ASP.NET Core & EntityFramework Core Based Startup Template
 
